@@ -32,7 +32,7 @@
  *
  * Compile with:
  *
- *   $ cc -Wall -std=c99 -O2 minibsdiff.c bsdiff.c bspatch.c
+ *   $ cc -Wall -std=c99 -O2 minibsdiff.c
  *
  * Usage:
  *
